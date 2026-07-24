@@ -139,7 +139,7 @@ http://127.0.0.1:8000/docs
 
 ### Screenshot
 
-![Swagger UI](images/swagger.png)
+![Swagger UI](Images/swagger.png)
 
 ---
 
