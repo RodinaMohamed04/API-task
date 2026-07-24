@@ -131,15 +131,13 @@ content-type: application/json
 
 ---
 
-# Swagger UI
+## Swagger UI
 
-Open the interactive API documentation at:
+The interactive API documentation is available at:
 
-```
 http://127.0.0.1:8000/docs
-```
 
-Add your Swagger screenshot below:
+### Screenshot
 
 ![Swagger UI](images/swagger.png)
 
