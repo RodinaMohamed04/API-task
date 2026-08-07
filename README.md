@@ -28,58 +28,6 @@ This project was developed as part of a backend API assignment.
 
 ---
 
-# Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/RodinaMohamed04/API-task.git
-```
-
-Go to the project directory:
-
-```bash
-cd API-task
-```
-
-Create a virtual environment:
-
-```bash
-python -m venv venv
-```
-
-Activate it (Windows):
-
-```bash
-venv\Scripts\activate
-```
-
-Install the required packages:
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the API:
-
-```bash
-uvicorn main:app --reload
-```
-
-The server will start at:
-
-```
-http://127.0.0.1:8000
-```
-
-Swagger UI:
-
-```
-http://127.0.0.1:8000/docs
-```
-
----
-
 # API Endpoints
 
 | Method | Endpoint | Description |
